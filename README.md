@@ -1,35 +1,36 @@
 # SkillGrid
 
-**SkillGrid** is a comprehensive web platform designed to bridge the gap between academic learning and professional industry requirements. Developed as a core college project, it serves as a centralized hub for students to track their skill acquisition, manage projects, and visualize their professional growth in real-time.
+**SkillGrid** is a centralized, gamified web platform designed to bridge the gap between academic learning and practical skill development. Developed as a core college project, it serves as a digital ecosystem to track, evaluate, and formally recognize student achievements in extracurricular activities such as hackathons, workshops, and club events.
 
-
+By assigning credit points to specific soft and technical skills, SkillGrid empowers students to build a verifiable digital portfolio while providing institutions and recruiters with a data-driven view of holistic student capabilities.
 
 ## 🚀 Key Features
 
-* **Dynamic Skill Matrix:** A personalized dashboard to track and visualize progress in various domains like Data Analytics, Cybersecurity, and Cloud Computing.
-* **Project Portfolio:** Integration to showcase GitHub repositories and live project demos directly on the platform.
-* **Resource Curation:** A module for discovering learning paths tailored to current industry trends.
-* **Peer Collaboration:** Features to connect with fellow students for hackathons and group project management.
+*   **Gamified Credit System:** Students earn automated credit points for participating in and completing verified campus events.
+*   **Verifiable Digital Portfolio:** A dynamic student dashboard featuring interactive radar charts that visualize growth across core dimensions: Technical, Leadership, Teamwork, Communication, and Creativity.
+*   **Faculty Event & Verification Management:** Dedicated portals for faculty guides to create events, define skill point distributions, and securely approve student participation claims.
+*   **Real-Time Leaderboard:** A competitive, college-wide ranking system based on total accumulated credits to boost student engagement.
+*   **Reward Redemption Store:** An integrated marketplace where students can exchange earned credits for institutional perks, vouchers, and merchandise.
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-* **Frontend:** HTML5, CSS3, JavaScript (or specify framework like React/Vue)
-* **Backend:** Node.js / Express (or specify your choice)
-* **Database:** MongoDB / PostgreSQL
-* **DevOps/Tools:** Git, GitHub, Postman
-
-
+*   **Frontend:** React.js, Chart.js (for data visualization)
+*   **Backend:** Node.js, Express.js (RESTful APIs)
+*   **Database:** Firebase Cloud Firestore (NoSQL real-time database)
+*   **Authentication:** Firebase Auth (Role-based access control)
+*   **DevOps/Tools:** Git, GitHub, Postman
 
 ## 📋 Prerequisites
 
 Ensure you have the following installed on your local machine:
-* **Node.js** (v18.x or higher)
-* **npm** (Node Package Manager)
-* **Git**
+
+*   **Node.js** (v18.x or higher)
+*   **npm** (Node Package Manager)
+*   **Git**
 
 ## 🔧 Installation & Setup
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/SkillGrid.git](https://github.com/your-username/SkillGrid.git)
-   cd SkillGrid
+```bash
+   git clone [https://github.com/devintbm/Skill-Grid.git](https://github.com/devintbm/Skill-Grid.git)
+   cd Skill-Grid
